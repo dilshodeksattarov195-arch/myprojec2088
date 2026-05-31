@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicesalidate",
+        "uuid": 18098784,
+        "checksum": "h9zcyd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
